@@ -3,7 +3,9 @@ package payment;
 public class PaymentMethod {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+ String p="by bank";
+ String p1="by Dabit card";
+ String p2="by cr card";
 
 	}
 
