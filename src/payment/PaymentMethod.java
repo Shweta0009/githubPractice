@@ -6,6 +6,7 @@ public class PaymentMethod {
  String p="by bank";
  String p1="by Dabit card";
  String p2="by cr card";
+ System.out.println(p + p1);
 
 	}
 
