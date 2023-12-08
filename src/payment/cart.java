@@ -1,10 +1,10 @@
 package payment;
 
-public class order {
+public class cart {
 
 	public static void main(String[] args) {
-String s= "t-shirt";
-  s="shirts";
+		// TODO Auto-generated method stub
+
 	}
 
 }
